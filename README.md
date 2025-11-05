@@ -2,6 +2,8 @@
 
 This repository contains the links to the documentation for all DataGEMS components.
 
+[https://datagems-eosc.github.io/](https://datagems-eosc.github.io/)
+
 ## Setup
 
 1. Create a virtual environment:
