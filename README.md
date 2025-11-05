@@ -26,3 +26,4 @@ To serve the documentation locally on port 8002:
 cd docs;
 mkdocs serve -a localhost:8002
 ```
+
